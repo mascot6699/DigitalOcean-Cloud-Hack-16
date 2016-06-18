@@ -1,0 +1,4 @@
+.possible-spolier {
+    -webkit-filter: blur(5px); /* Chrome, Safari, Opera */
+    filter: blur(5px);
+}
